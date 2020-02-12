@@ -1,2 +1,4 @@
 # hello-world
-C# Hello World
+C# Hello World tutorial
+
+This is a tutorial for C# and git.
